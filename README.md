@@ -1,2 +1,2 @@
 # cs3240-labdemo
-Different description
+Repository used for CS3240 Lab 5
